@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>WIU Computer Science</title>
+    <base href="/" >
+    
+<script src="node_modules/angular2/bundles/angular2-polyfills.js">
+</script>
+    <script src="node_modules/es6-shim/es6-shim.js">
+    </script>
+
+    <script src="node_modules/systemjs/dist/system.src.js">
+    </script>
+    <script src="node_modules/rxjs/bundles/Rx.js">
+
+    </script>
+    <script src="node_modules/angular2/bundles/angular2.dev.js">    </script>
+    <script src="node_modules/angular2/bundles/http.dev.js">    </script>
+    
+    <script src="node_modules/angular2/bundles/router.dev.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    
+    <!--<script src="node_modules/d3/d3.js">    </script>-->
+
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="resources/vendor/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="resources/style.css">
+
+</head>
+
+<body>
+
+    <script>
+        System.config({
+            map: {
+                d3: 'node_modules/d3/d3.js',
+                'd3-tip': 'node_modules/d3-tip/index.js'
+            },
+            packages: {
+                app: {
+                    format: 'register',
+                    defaultExtension: 'js'
+                },
+                angularfire2: {
+                    defaultExtension: 'js',
+                    main: 'angularfire2.js'
+                }
+            }
+        });
+System.import('app/bootstrap')
+    .then(null, console.error.bind(console));
+
+    </script>
+
+    <app></app>
+
+
+</body>
+
+</html>

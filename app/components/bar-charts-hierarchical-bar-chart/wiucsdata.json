@@ -1,0 +1,243 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Graduate",
+   "children": [
+     {"name": "CS 410", "size": 26},
+    {"name": "CS 412", "size": 20},
+    {"name": "CS 420", "children": [
+      {"name": "Section 101", "size": 35},
+      {"name": "Section 102", "size": 35}]},
+    {"name": "CS 460", "size": 29},
+    {"name": "CS 465", "children": [
+      {"name": "Section 101", "size": 30},
+      {"name": "Section 102", "size": 28}]},
+    {"name": "CS 470", "children": [
+      {"name": "Section 101", "size": 25},
+      {"name": "Section 102", "size": 24}]},
+    {"name": "CS 473", "size": 0},
+      {"name": "CS 483", "size": 2},
+    {"name": "CS 484", "size": 5},
+    {"name": "CS 486", "size": 12},
+    {"name": "CS 488", "size": 10},
+    {"name": "CS 500", "size": 20},
+     {"name": "CS 505", "size": 20},
+   
+    {"name": "CS 513", "size": 20},
+    {"name": "CS 522", "size": 25},
+     {"name": "CS 530", "size": 19},
+    {"name": "CS 548", "size": 10},
+     {"name": "CS 557", "size": 23},
+     {"name": "CS 560", "children": [
+      {"name": "Section 101", "size": 25},
+      {"name": "Section 102", "size": 24}]},
+         {"name": "CS 561", "size": 20},
+   {"name": "CS 567", "size": 31},
+      {"name": "CS 575", "size": 3},
+       {"name": "CS 585", "size": 25},
+        {"name": "CS 590", "size": 35},
+         {"name": "CS 595", "size": 3},
+          {"name": "CS 599", "size": 0},
+           {"name": "CS 600", "size": 0},
+            {"name": "CS 601", "size": 0}
+
+   ]
+  },
+  {
+   "name": "Network Technology",
+   "children": [
+    {"name": "NET 321", "size": 13},
+    {"name": "NET 322", "size": 17},
+    {"name": "NET 323", "size": 5},
+    {"name": "NET 371", "size": 1},
+    {"name": "NET 375", "size": 0},
+    {"name": "NET 422", "size": 8},
+     {"name": "NET 432", "size": 5},
+    {"name": "NET 434", "size": 0},
+    {"name": "NET 436", "size": 7},
+    {"name": "NET 482", "size": 0},
+    {"name": "NET 495", "size": 0},
+    {"name": "NET 497", "size": 2},
+     {"name": "NET 499", "size": 0}
+   
+   ]
+  },
+  
+
+ 
+  {
+   "name": "Graphic Communiaction",
+   "children": [
+   {"name": "GCOM 111", "size": 0},
+    {"name": "GCOM 112", "size": 2},
+    {"name": "GCOM 122", "size": 0},
+    {"name": "GCOM 117", "size": 0},
+    {"name": "GCOM 212", "size": 5},
+    {"name": "GCOM 213", "size": 9},
+     {"name": "GCOM 218", "size": 0},
+    {"name": "GCOM 314", "size": 0},
+    {"name": "GCOM 316", "size": 11},
+    {"name": "GCOM 318", "size": 9},
+    {"name": "GCOM 320", "size": 0},
+    {"name": "GCOM 412", "size": 9},
+     {"name": "GCOM 413", "size": 0},
+    {"name": "GCOM 414", "size": 0},
+    {"name": "GCOM 415", "size": 10},
+    {"name": "GCOM 417", "size": 7},
+    {"name": "GCOM 419", "size": 0},
+    {"name": "GCOM 422", "size": 3},
+    {"name": "GCOM 423", "size": 2},
+    {"name": "GCOM 455", "size": 0},
+    {"name": "GCOM 492", "size": 4},
+    {"name": "GCOM 493", "size": 0}
+   ]
+  },
+ 
+  {
+   "name": "Information System",
+   "children": [
+    {"name": "IS 215", "size": 0},
+    {"name": "IS 324", "size": 0},
+    {"name": "IS 325", "size": 32},
+    {"name": "IS 340",  "children": [
+      {"name": "Section 001", "size": 34},
+      {"name": "Section 002", "size": 35},
+      {"name": "Section 003", "size": 3},
+      {"name": "Section 101", "size": 31},
+      {"name": "Section 102", "size": 7},
+      {"name": "Section 103", "size": 8},
+      {"name": "Section 104", "size": 12},
+      {"name": "Section 105", "size": 13}
+      
+      
+     ]
+    },
+    {"name": "IS 341", "children": [
+      {"name": "Section 001", "size": 4},
+      {"name": "Section 002", "size": 6}
+     ]},
+    {"name": "IS 343", "children": [
+      {"name": "Section 001", "size": 4},
+      {"name": "Section 002", "size": 5}
+     ]},
+   
+    {"name": "IS 344", "size": 4},
+    {"name": "IS 355", "size": 0},
+    {"name": "IS 405", "size": 10},
+   
+    {"name": "IS 410", "size": 0},
+    {"name": "IS 415", "size": 14},
+    
+    {"name": "IS 460", "size": 2},
+    {"name": "IS 462", "size": 8},
+    {"name": "IS 466", "size": 7},
+    {"name": "IS 467", "size": 6},
+    {"name": "IS 470", "size": 2},
+    {"name": "IS 497", "size": 0}
+   ]
+  },
+  {
+   "name": "Computer Science",
+   "children": [
+    {
+     "name": "CS 101",
+     "children": [
+      {"name": "Section 001", "size": 21},
+      {"name": "Section 002", "size": 16},
+      {"name": "Section 003", "size": 3},
+      {"name": "Section 004", "size": 1},
+      {"name": "Section 005", "size": 11},
+      {"name": "Section 006", "size": 8},
+      {"name": "Section 007", "size": 2},
+      {"name": "Section 008", "size": 3},
+      {"name": "Section 009", "size": 5},
+      {"name": "Section 010", "size": 2},
+      {"name": "Section 011", "size": 4},
+      {"name": "Section 012", "size": 1},
+      {"name": "Section 013", "size": 15},
+      {"name": "Section 014", "size": 2},
+      {"name": "Section 015", "size": 9},
+      {"name": "Section 016", "size": 2},
+      {"name": "Section 101", "size": 3}
+      
+     ]
+    },
+    {
+     "name": "CS 102",
+     "children": [
+      {"name": "Section 001", "size": 1}
+      
+     ]
+    },
+  
+    {
+     "name": "CS 111","size":0},
+     
+    
+    {
+     "name": "CS 214",
+     "children": [
+      {"name": "Section 1", "size": 7}
+     ]
+    },
+    {
+     "name": "CS 220","size":0  },
+
+    {"name": "CS 225", "size": 11},
+    {"name": "CS 230", "size": 8},
+    {"name": "CS 250", "children": [
+      {"name": "Section 001", "size": 4},
+      {"name": "Section 002", "size": 36},
+       {"name": "Section 003", "size": 4}
+     ]},
+    {"name": "CS 301", "children": [
+      {"name": "Section 101", "size": 0},
+      {"name": "Section 102", "size": 35},
+       {"name": "Section 103", "size": 36},
+       {"name": "Section 103", "size": 6}
+     ]},
+    {"name": "CS 302", "size": 0},
+    {"name": "CS 305", "size": 29},
+    {"name": "CS 306", "size": 10},
+    {"name": "CS 310", "size": 27},
+     {"name": "CS 315", "size": 15},
+    {"name": "CS 320", "size": 12},
+    {"name": "CS 343", "size": 10},
+    {"name": "CS 351", "size": 5},
+    {"name": "CS 355", "size": 30},
+    {"name": "CS 371", "size": 10},
+    {"name": "CS 395", "size": 28},
+    {"name": "CS 396", "size": 24},
+      {"name": "CS 400", "size": 15},
+    {"name": "CS 410", "size": 26},
+    {"name": "CS 412", "size": 20},
+    {"name": "CS 415", "children": [
+      {"name": "Section 101", "size": 0},
+      {"name": "Section 102", "size": 15}]},
+    {"name": "CS 420", "children": [
+      {"name": "Section 101", "size": 35},
+      {"name": "Section 102", "size": 35}]},
+    {"name": "CS 425", "size": 0},
+    {"name": "CS 455", "size": 28},
+    {"name": "CS 460", "size": 29},
+    {"name": "CS 465", "children": [
+      {"name": "Section 101", "size": 30},
+      {"name": "Section 102", "size": 28}]},
+    {"name": "CS 470", "children": [
+      {"name": "Section 101", "size": 25},
+      {"name": "Section 102", "size": 24}]},
+    {"name": "CS 473", "size": 0},
+      {"name": "CS 483", "size": 2},
+    {"name": "CS 484", "size": 5},
+    {"name": "CS 486", "size": 12},
+    {"name": "CS 488", "size": 10},
+    {"name": "CS 491", "size": 20},
+    {"name": "CS 492", "size": 19},
+    {"name": "CS 495", "size": 0},
+    {"name": "CS 497", "size": 3},
+    {"name": "CS 499", "size": 0}
+   ]
+  }
+ ]
+}
